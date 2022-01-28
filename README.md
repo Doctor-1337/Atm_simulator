@@ -1,3 +1,3 @@
-# Atm Simulator
-Java Swing Desktop Application to simulate ATM.
+# Banking System 
+Banking System with ATM using Java Swing.
 Used NetBeans IDE for Project and used MySql on WampServer to create Database.
